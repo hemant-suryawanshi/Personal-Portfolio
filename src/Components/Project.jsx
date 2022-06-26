@@ -15,7 +15,99 @@ const Project=()=>{
         <p data-aos = 'flip-up' data-aos-duration="1500">Projects</p>
         </div>
 
-        {/* TOI CLONE */}
+        <div className={styles.toi} 
+          data-aos="fade-up" 
+          data-aos-offset="120"
+            data-aos-delay="800"
+            data-aos-duration="800"
+            data-aos-easing="ease-in-out">
+              <div>
+                  <h3>Fraazo clone </h3>
+                  <p>
+                      <div>Tools : HTML | CSS | JavaScript | MongoDB</div>
+                      <div>Features :</div>
+                      <div>
+                          <ul>
+                              <li>A Individuale project executed in a week.</li> 
+                               <li>Users can register and login to the website, go to product Page and Apply some Filter And sorting Functionality</li>
+                                <li>Users can add the product to cart/Wishlist and Checkout to Payment</li>                   
+                          </ul>
+                      </div>
+                  </p>
+                  
+                  <div>
+                      <button>
+                        <a href='https://fraazo-masai.netlify.app/' target="_blank" rel="noreferrer">
+                                DEMO
+                        </a>
+                     </button>
+                     
+                      <button>
+                      <a href='https://github.com/hemant-suryawanshi/Fraazo.in.git' target="_blank" rel="noreferrer">
+                      VIEW CODE
+                        </a>
+                    </button>
+                  </div>
+              </div>
+              
+              <div>
+                <img src='/Fraazo.png' alt='Fraazo.com'/>
+              </div>
+
+          </div>
+
+
+
+          <div className={styles.toi} 
+          data-aos="fade-up" 
+          data-aos-offset="120"
+            data-aos-delay="800"
+            data-aos-duration="800"
+            data-aos-easing="ease-in-out">
+              <div>
+                  <h3>Sephora clone</h3>
+                  <p>
+                      <div>Tools : HTML | CSS | JavaScript | MongoDB</div>
+                      <div>Features :</div>
+                      <div>
+                          <ul>
+                              <li>A collaborative project built by a team of 5,executed in a week.</li> 
+                               <li>Users can register and login to the website, go to product Page and Apply some Filter And sorting Functionality</li>
+                                <li>Users can add the product to cart/Wishlist and Checkout to Payment</li>                   
+                          </ul>
+                      </div>
+                  </p>
+                  
+                  <div>
+                      <button>
+                        <a href='https://shephora.netlify.app/' target="_blank" rel="noreferrer">
+                                DEMO
+                        </a>
+                     </button>
+                     
+                      <button>
+                      <a href='https://github.com/hemant-suryawanshi/SephoraClone.git' target="_blank" rel="noreferrer">
+                      VIEW CODE
+                        </a>
+                    </button>
+                  </div>
+              </div>
+              
+              <div>
+                <img src='/Sephora.png' alt='FlipKart.com'/>
+              </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+
           <div className={styles.toi} 
           data-aos="fade-up" 
           data-aos-offset="120"
@@ -57,56 +149,14 @@ const Project=()=>{
 
           </div>
 
-          {/* Tic-Tac-Toe */}
+        
+
+
 
           <div className={styles.toi}
           data-aos="fade-up" 
           data-aos-offset="120"
-            // data-aos-delay="800"
-            data-aos-duration="800"
-            data-aos-easing="ease-in-out">
-              <div>
-                  <h3>Flipkart.com clone 1.0</h3>
-                  <p>
-                      <div>Tools : HTML | CSS | JavaScript | MongoDB</div>
-                      <div>Features :</div>
-                      <div>
-                          <ul>
-                              <li>A collaborative project built by a team of 5,executed in a week.
-                              <li>Users can register and login to the website, go to product Page and Apply some Filter And sorting Functionality</li>
-                              <li>Users can add the product to cart/Wishlist and Checkout to Payment</li>
-                              </li>
-                          </ul>
-                      </div>
-                  </p>
-                  
-                  <div>
-                        <button>
-                        <a href='https://upbeat-wilson-2fe19b.netlify.app/' target="_blank" rel="noreferrer">
-                                DEMO
-                        </a>
-                     </button>
-                      <button>
-                         <a href='https://github.com/hemant-suryawanshi/Flipkart-Clone-1.0.git' target="_blank" rel="noreferrer">
-                             VIEW CODE
-                          </a>
-                      </button>
-                  </div>
-              </div>
-              
-              <div>
-                <img src='/flipkart1.png' alt='Flipkart.com'/>
-              </div>
-
-          </div>
-
-
-
-          {/* Toggl Track CLONE */}
-          <div className={styles.toi}
-          data-aos="fade-up" 
-          data-aos-offset="120"
-            // data-aos-delay="800"
+      
             data-aos-duration="800"
             data-aos-easing="ease-in-out">
               <div>
