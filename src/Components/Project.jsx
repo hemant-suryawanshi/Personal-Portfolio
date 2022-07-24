@@ -43,7 +43,7 @@ const Project=()=>{
                      </button>
                      
                       <button>
-                      <a href='https://github.com/hemant-suryawanshi/Fraazo.in.git' target="_blank" rel="noreferrer">
+                      <a href='https://github.com/hemant-suryawanshi/Frazoo.in-2.0.git' target="_blank" rel="noreferrer">
                       VIEW CODE
                         </a>
                     </button>
@@ -130,7 +130,7 @@ const Project=()=>{
                   
                   <div>
                       <button>
-                        <a href='https://flipkart01-clone.netlify.app/' target="_blank" rel="noreferrer">
+                        <a href='https://flipkart-clone-frontend.vercel.app/' target="_blank" rel="noreferrer">
                                 DEMO
                         </a>
                      </button>
