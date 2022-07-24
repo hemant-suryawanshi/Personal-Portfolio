@@ -24,7 +24,7 @@ const Project=()=>{
               <div>
                   <h3>Fraazo clone </h3>
                   <p>
-                      <div>Tools : HTML | CSS | JavaScript | MongoDB</div>
+                      <div>Tools : React.js | express.js | Mongoose | JavaScript | Chakra Ui</div>
                       <div>Features :</div>
                       <div>
                           <ul>
@@ -67,7 +67,7 @@ const Project=()=>{
               <div>
                   <h3>Sephora clone</h3>
                   <p>
-                      <div>Tools : HTML | CSS | JavaScript | MongoDB</div>
+                      <div>Tools : React.js | express.js | Mongoose | JavaScript | Bootstrap</div>
                       <div>Features :</div>
                       <div>
                           <ul>
